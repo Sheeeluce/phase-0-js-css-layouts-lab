@@ -4,3 +4,14 @@
     justify-content: space-around;
     padding: 2em;
   }
+
+.cat-breed {
+    flex: 1 1 300px;
+    margin: 1em;
+    padding: 1em;
+    border: 1px solid #3F5E5A;
+    border-radius: 10px;
+    box-shadow: 0 3px 7px #6e4d5f;
+    text-align: center;
+    transition: transform .2s ease;
+  }
