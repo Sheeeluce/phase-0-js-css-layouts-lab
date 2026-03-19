@@ -15,3 +15,8 @@
     text-align: center;
     transition: transform .2s ease;
   }
+
+.cat-breed:hover {
+  transform: scale(1.05);
+}
+
